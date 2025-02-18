@@ -13,7 +13,7 @@ Funcionalidades
 Como usar
 
 1. Clone o repositório: `git clone https://github.com/mauriciolobof/challenge-alura-one-jogo-amigo-secreto`
-2. Abra o arquivo `index.html no seu navegador.
+2. Abra o arquivo `index.html` no seu navegador.
 3. Digite o nome dos seus amigos no campo input e clique em "Adicionar".
 4. Clique em "Sortear amigo" para descobrir quem você tirou.
 5. Clique em "Limpar lista de amigos" para começar um novo sorteio.
