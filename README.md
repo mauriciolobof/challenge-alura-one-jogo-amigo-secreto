@@ -1,7 +1,8 @@
 # challenge-alura-one-jogo-amigo-secreto
 Jogo do Amigo Secreto
 
-Um jogo divertido para sortear amigos secretos de forma online e individual!
+Um jogo para sortear amigos secretos de forma online e individual!
+
 Funcionalidades
 
 * Adiciona amigos à lista
